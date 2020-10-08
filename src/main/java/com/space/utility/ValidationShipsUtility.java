@@ -86,6 +86,7 @@ public class ValidationShipsUtility {
             return roundSpeed < 0.01 || roundSpeed > 0.99;
 
         }
+        
         return false;
     }
 
